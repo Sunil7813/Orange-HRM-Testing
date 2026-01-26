@@ -1,45 +1,84 @@
-# Orange-HRM-Testing
-# OrangeHRM Automation Testing Project
+📌 Project Overview
 
-## 📌 Project Overview
-This project demonstrates **end-to-end automation testing** of the **OrangeHRM web application** using **Selenium WebDriver with Java**.  
-The framework is designed with **Page Object Model (POM)** and **TestNG** to automate critical HR functionalities in a scalable and maintainable way.
+This project focuses on manual testing of the OrangeHRM web application, an open-source Human Resource Management system.
+The goal is to ensure that core HR functionalities work as expected by identifying defects, validating requirements, and improving overall application quality.
 
-This project is created for **hands-on practice, framework understanding, and interview demonstration**.
+🔗 Application Under Test (AUT)
 
----
+Application Name: OrangeHRM
 
-## 🎯 Project Objective
-- To automate core HR workflows of the OrangeHRM application  
-- To build a reusable and maintainable Selenium automation framework  
-- To simulate real-time automation testing scenarios followed in industry  
+URL: https://opensource-demo.orangehrmlive.com
 
----
+Type: Web Application
 
-## 🛠️ Tech Stack
-- Java  
-- Selenium WebDriver  
-- TestNG  
-- Maven  
-- Page Object Model (POM)  
-- Git & GitHub  
+Domain: Human Resource Management System (HRMS)
 
----
+🎯 Objectives
 
-## 🧪 Application Under Test
-- **Application Name:** OrangeHRM  
-- **Application Type:** Web Application  
-- **Test URL:** https://opensource-demo.orangehrmlive.com/  
+Understand business requirements of an HRM system
 
----
+Design and execute manual test cases
 
-## 🧩 Framework Design
-- Page Object Model (POM) for better code reusability  
-- Base class for WebDriver setup and browser configuration  
-- TestNG for test execution, grouping, and assertions  
-- Maven for dependency and build management  
+Identify and report defects effectively
 
----
+Validate core functionalities such as login, employee management, and leave management
 
-## 📂 Project Structure
+🛠️ Testing Types Performed
 
+Functional Testing
+
+Smoke Testing
+
+Sanity Testing
+
+Regression Testing
+
+UI Testing
+
+📂 Modules Covered
+
+Login Module
+
+Dashboard
+
+Admin Module
+
+PIM (Personal Information Management)
+
+Leave Management
+
+Logout Functionality
+
+🧾 Test Artifacts Included
+
+✔️ Test Plan
+
+✔️ Test Scenarios
+
+✔️ Test Cases
+
+✔️ Test Data
+
+✔️ Defect/Bug Report
+
+✔️ Test Summary Report
+
+🐞 Defect Management
+
+Defects are logged with:
+
+Defect ID
+
+Description
+
+Steps to Reproduce
+
+Expected Result
+
+Actual Result
+
+Severity & Priority
+
+Status
+
+(Defects are documented using Excel for tracking and reporting.)
